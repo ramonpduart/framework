@@ -1,0 +1,21 @@
+{
+    "name": "ligadonasaude/framework",
+    "description": "Ligado na saúde - framework",
+    "homepage": "http://www.ligadonasaude.com.br",
+    "repositories": [{
+    "type": "package",
+    "package": {
+        "name": "ligadonasaude/framework",
+        "version": "1.0.0",
+        "source": {
+                "url": "https://github.com/ligadonasaude/framework.git",
+                "type": "git",
+                "reference": "1.0.0"
+            }
+        }
+    }],
+    "require": {
+        "php": ">=5.3",
+        "ligadonasaude/framework": "1.0.0"
+    }
+}
