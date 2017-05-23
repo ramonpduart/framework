@@ -10,12 +10,12 @@
         "source": {
                 "url": "https://github.com/ligadonasaude/framework.git",
                 "type": "git",
-                "reference": "0.1.0"
+                "reference": "1.0.0"
             }
         }
     }],
     "require": {
         "php": ">=5.3",
-        "ligadonasaude/framework": "master"
+        "ligadonasaude/framework": "1.0.0"
     }
 }
